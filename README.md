@@ -26,6 +26,7 @@ conda install --file requirements.txt
 ## Key highlights of the project include:
 
 **Data Collection:** The dataset for the project is taken from Kaggle.
+**link**: <a href="https://www.kaggle.com/code/apolynomialcurve/youtube-trending-page-analytics/input?select=IN_youtube_trending_data.csv">Dataset</a>
 
 **Data Preprocessing:** Discover the significance of data preprocessing and cleansing to ensure accurate and meaningful analysis.
 We'll cover techniques like handling missing data, converting data types, and dealing with duplicates etc..
